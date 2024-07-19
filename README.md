@@ -1,16 +1,12 @@
-# title
+here it is lest learn __MARKDOWN__:
+# heading
+## heading
+### heading
+#### heading
+##### heading
+###### heading
 
-hello from markdown
+lets go to write a *italic* **bold** __*italic and bold*__ program  
+price: ~~$1200~~ only <mark>$849</mark>
 
-```ts
-interface user {
-  id: string;
-  name: string;
-  age: number
-}
-const users: user[] = [
-  {id: '8Biiqd6VOB32', name: 'pooya', age: 17},
-  {id: '1BEiqEQdS42D', name: 'parsa', age: 25},
-  {id: 'K94QnY1aI7dF', name: 'mohammadhossein', age: 16},
-]
-```
+### X<sup>2</sup> + H<sub>2</sub>O
