@@ -72,6 +72,9 @@
 >     gap: 10px;
 >   }
 > }
+> a {
+>   color: blueviolet;
+> }
 > ```
 >
 > 3.  in the last i staged and commit them and finally push them on the GitHub Repository

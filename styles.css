@@ -69,3 +69,7 @@ body {
     gap: 10px;
   }
 }
+
+a {
+  color: blueviolet;
+}
