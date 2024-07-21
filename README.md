@@ -22,6 +22,11 @@
 >   flex-direction: column;
 >   align-items: center;
 >   gap: 1.5rem;
+>   width: 40%;
+> }
+>
+> .parent h2 {
+>   text-align: center;
 > }
 >
 > .parent div {
@@ -51,6 +56,21 @@
 >   border: none;
 >   border-radius: 20px;
 >   overflow: hidden;
+> }
+> @media only screen and (max-width: 1050px) {
+>   .parent {
+>     width: 60%;
+>   }
+> }
+>
+> @media only screen and (max-width: 750px) {
+>   .parent {
+>     width: 80%;
+>   }
+>   .parent div {
+>     flex-direction: column;
+>     gap: 10px;
+>   }
 > }
 > ```
 >
