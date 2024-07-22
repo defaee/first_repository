@@ -55,6 +55,10 @@ body {
   overflow: hidden;
 }
 
+a {
+  color: blueviolet;
+}
+
 @media only screen and (max-width: 1050px) {
   .parent {
     width: 60%;
@@ -69,8 +73,4 @@ body {
     flex-direction: column;
     gap: 10px;
   }
-}
-
-a {
-  color: blueviolet;
 }
