@@ -8,6 +8,7 @@ body {
   height: 100vh;
   width: 100%;
   gap: 4rem;
+  position: relative;
 }
 
 .parent {
